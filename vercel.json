@@ -1,0 +1,13 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    { "source": "/about-george-popescu", "destination": "/about", "permanent": true },
+    { "source": "/about-george-popescu/", "destination": "/about", "permanent": true },
+    { "source": "/contact-george-popescu", "destination": "/contact", "permanent": true },
+    { "source": "/contact-george-popescu/", "destination": "/contact", "permanent": true },
+    { "source": "/insights-george-popescu", "destination": "/insights", "permanent": true },
+    { "source": "/insights-george-popescu/", "destination": "/insights", "permanent": true },
+    { "source": "/paris-reflections/", "destination": "/paris-reflections", "permanent": true }
+  ]
+}
