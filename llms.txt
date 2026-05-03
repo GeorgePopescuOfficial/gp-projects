@@ -14,3 +14,7 @@ George Popescu Projects showcases the work of a fashion and editorial photograph
 ## Key Articles
 
 - [Paris Reflections](https://georgepopescuprojects.com/paris-reflections.html)
+
+## External Resources
+
+- [George Popescu – Profile (PDF)](https://zenodo.org/records/18333161): Official profile document hosted on Zenodo
